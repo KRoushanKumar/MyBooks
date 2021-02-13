@@ -1,0 +1,111 @@
+th {
+    Color: black;
+    Background: blue;
+    margin: 0;
+    border:none;
+    font-size:20px;
+    padding:10px;
+
+}
+
+td {
+    Color: white;
+    Background: gray;
+    border: 1px solid;
+    padding: 10px;
+}
+tr {
+    border: none;
+    margin: 0;
+}
+table {
+    border: none;
+    margin: 0;
+    border-collapse: collapse;
+}
+.row{
+    float:left;
+}
+
+.footerIcon img {
+    height:50px;
+    width:50px;
+    border-radius:50%;
+    padding-right:5px;
+    padding-top:5px;
+
+}
+.footerNewww {
+    height: 70px;
+    background-color: #a7948d;
+    margin: 0;
+    width:100%;
+}
+.footerDiv{
+    padding:0px 12px 10px 10px;
+    font-size:20px;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.headLine {
+    background-image: url(../Books.jpg);
+    color: red;
+    text-align: center;
+    font-size: 150px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.booksque {
+    height: 50px;
+    width: 100%;
+    background-color: khaki;
+    font-size: 30px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    text-align: center;
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.EvenPlace {
+    height: 300px;
+    padding: 10px;
+}
+
+.BookImage img {
+    height: 270px;
+    border-radius: 10%;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+
+}
+
+.BookImage {
+    width: 30%;
+    border-radius: 10%;
+    float: left;
+}
+
+.aboutBook {
+    width: 70%;
+    float: left;
+}
+
+.OddPlace {
+    height: 300px;
+    padding: 10px;
+    background-color: blanchedalmond;
+}
+/*
+            .footerNewww {
+             height:100px; 
+            //background-color: darkslategray;
+            margin:0;
+        }
+
+        */
+
