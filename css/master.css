@@ -48,6 +48,7 @@ table {
 body {
     margin: 0px;
     padding: 0px;
+    background-color:gainsboro;
 }
 
 .headLine {
@@ -73,6 +74,10 @@ body {
 .EvenPlace {
     height: 300px;
     padding: 10px;
+    background-color: azure;
+    margin: 15px;
+    border-radius: 5px;
+    box-shadow:10px 10px 8px #888888;
 }
 
 .BookImage img {
@@ -99,6 +104,9 @@ body {
     height: 300px;
     padding: 10px;
     background-color: blanchedalmond;
+    margin: 15px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 8px #888888;
 }
 /*
             .footerNewww {
